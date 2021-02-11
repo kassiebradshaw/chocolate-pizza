@@ -1,0 +1,50 @@
+/*  */
+
+/* Arial / Helvetica  */
+
+body {
+  width: 960px;
+  margin: auto;
+  /* background-image: url('img/van-pic.png'); */
+  /* background-repeat: repeat-x; */
+}
+
+#social-media img {
+  /* height: 12px;
+  width: 12px; */
+  float: right;
+  margin-left: 1px;
+}
+
+#social-media :nth-child(2) {
+  margin-left: 5px;
+}
+
+#header-logo {
+  display: inline-block;
+}
+
+#header-logo img {
+  float: left;
+}
+
+.delicious {
+  font-family: 'Playball', cursive;
+  font-size: 210%;
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.subhead {
+  font-family: 'Nunito', sans-serif;
+  font-size: 50%;
+  color: grey;
+  min-width: 400px;
+  margin-left: 50px;
+}
+
+#divider {
+  background-image: url('img/hr-img.png');
+  background-repeat: repeat-x;
+  width: 960px;
+}
